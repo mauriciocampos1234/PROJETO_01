@@ -15,11 +15,11 @@
 <body>
     <header>
         <div class="center">
-            <div class="logo left"><a href="./home.html"><img src="./css/images/logo2.jfif" alt="Logo"></a></div><!--Logo-->
+            <div class="logo left"><a href="./home.php"><img src="./css/images/logo2.jfif" alt="Logo"></a></div><!--Logo-->
             <nav class="desktop rigth">
                 <ul>
                     <li>
-                        <a href="./home.html">Home</a>
+                        <a href="./home.php">Home</a>
                     </li>
                     <li>
                         <a href="./receitas.html">Receitas</a>
@@ -37,7 +37,7 @@
                 
                 <ul>
                     <li>
-                        <a href="./home.html">Home</a>
+                        <a href="./home.php">Home</a>
                     </li>
                     <li>
                         <a href="./receitas.html">Receitas</a>
