@@ -204,7 +204,8 @@ section.especialidades h2.title {
     font-weight: bold;
     font-size: 30px;
     color: black;
-    padding-bottom: 10px;    
+    padding-top: 20px; 
+    padding-bottom: 20px;    
 }
 
 .box-especialidade p {    
@@ -355,6 +356,11 @@ footer p {
         
         padding-top: 20px;
         padding-bottom: 20px;
+    }
+
+    .box-especialidade h4 {
+        padding-bottom: 35px;
+        
     }
 }
 
